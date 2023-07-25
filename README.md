@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhari2920
+- 👋 Hi, I’m @Dhari2920
 - 👀 I’m interested in MERN STACK
 - 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me dhari2920@gmail.com
