@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Full stack(Mern)**
 
-- 📫 How to reach me **dharikam29@gmail.com**
+- 📫 How to reach me **dhari2920@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
